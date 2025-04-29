@@ -8,13 +8,15 @@ Installation:
    ```bash
    git clone https://github.com/hhh9990/simple-interest
 
-2. Navigate to the project directory
-
-3. Give execution permission to the script:
+2. Navigate to the project directory:
+   ```bash
+   cd simple-interest
+   
+4. Give execution permission to the script:
    ```bash
    chmod +x simple-interest.sh
 
-4. To run the script, use the following command:
+5. To run the script, use the following command:
    ```bash
    ./simple-interest.sh
    

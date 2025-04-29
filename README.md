@@ -6,4 +6,4 @@ Installation:
 
 1. Clone the repository to your local machine using Git:
    ```bash
-   git clone 
+   git clone https://github.com/hhh9990/simple-interest

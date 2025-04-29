@@ -7,11 +7,9 @@ Installation:
 1. Clone the repository to your local machine using Git:
    ```bash
    git clone https://github.com/hhh9990/simple-interest
-   
-2. Navigate to the project directory:
-    ```bash
-    cd simple-interest-calculator
-    
+
+2. Navigate to the project directory
+
 3. Give execution permission to the script:
    ```bash
    chmod +x simple-interest.sh

@@ -23,6 +23,6 @@ Installation:
 you will be prompted to enter:
 The principal amount, 
 The rate of interest,
-The time period in years,
+The time period in years.
 The script will then calculate and display the simple interest.
 
